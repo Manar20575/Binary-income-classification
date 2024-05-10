@@ -1,4 +1,4 @@
-# binary income classification :
+# Ninary income classification :
 build a model that predicts whether an individual makes over $50,000 per year based on anonymized census data
 ## Goal :
 understanding factors influencing income inequality and potentially informing targeted social programs.
