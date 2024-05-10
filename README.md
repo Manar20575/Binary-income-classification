@@ -32,9 +32,9 @@ used basic visualization methods using plottly and cufflinks not matplotlib and 
 ## Feature Engineering:
 Dimensionality Reduction (PCA) / Encoding (1 Hot - Normal) / Scaling
 ## Build model:
-7 Models: 
+7 Models evaluation using different evaluation metrics like (Accuracy – Precision – Recall – ROC): 
 ![image](https://github.com/Manar20575/Data-Science-Project/assets/74185394/fb96c558-2da1-4e54-ad7a-f8e012492bce)
-Evaluation using different evaluation metrics like (Accuracy – Precision – Recall – ROC).
+
 
 
 
