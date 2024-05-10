@@ -1,5 +1,5 @@
-# Ninary income classification :
-build a model that predicts whether an individual makes over $50,000 per year based on anonymized census data
+# Binary income classification :
+build a model that predicts whether an individual makes over $50,000 per year based on anonymized <a href = 'https://www.kaggle.com/datasets/uciml/adult-census-income'>census data</a>
 ## Goal :
 understanding factors influencing income inequality and potentially informing targeted social programs.
 ##  Data Cleaning or Refinement :
